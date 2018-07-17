@@ -1,0 +1,18 @@
+settings = 
+{
+	orientation =
+	{
+		default = "landscape",
+		supported = { "landscape" }
+	},
+	iphone =
+	{
+		plist =
+		{
+		},
+	},
+
+	plugins = {  
+        ['plugin.video_player'] = {publisherId = 'czekala.maciej'}
+    }
+}
